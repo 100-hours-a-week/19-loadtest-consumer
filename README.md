@@ -1,2 +1,2 @@
-# 19-Respec-BE-Chatconsumer-
-스펙랭킹 채팅 서버입니다6
+# 19-loadtest-consumer
+KTB 19조 부하테스트 컨슈머 서버
